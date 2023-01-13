@@ -8,3 +8,27 @@ title
 =
 subtitle
 ==
+*one*
+**two**
+_one_
+__two__
+1. one
+2. two 
+3. three
+1. eq
+3. 33
+5. 55
+- one
+  - one.1
+  - one.2
+- two 
+- three
+
+> one
+> 
+> two
+> 
+> three 
+
+one  
+two
